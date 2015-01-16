@@ -1,0 +1,11 @@
+Wed Jan 14 12:35:44 EST 2015
+
+      Vehicle Ownership Report
+
+OWNER                    VEHICLES                 
+Steve Jobs               [Lamborghini Veneno Roadster, Ducati Monster 1100]
+Bob Martin               [Jenson Diamondback Sortie 29Er Mountain Bike, MTD-800 Go-Kart, Aston Martin Vanquish Q]
+James Gosling            [Aston Martin Vanquish Q]
+Sergey Brin              [Hennessey Venom GT2, Ferrari Enzo]
+Bill Gates               [Hoveround Dart 3-Wheel Travel Scooter, Fort Pinto Hatchback]
+Ryan Gillarde            [Tesla Model S, Lamborghini Veneno Roadster, MTD-800 Go-Kart, Jenson Diamondback Sortie 29Er Mountain Bike]
